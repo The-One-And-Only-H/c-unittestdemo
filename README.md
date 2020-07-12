@@ -1,6 +1,6 @@
-# C# unit test demo
+# C# demo
 
-C# unit test demo built with C# and .NET Core in Visual Studio using the Microsoft unit test framework.
+C# demo built with C#, including unit tests built with .NET Core in Visual Studio using the Microsoft unit test framework.
 
 Tech stack:
 
